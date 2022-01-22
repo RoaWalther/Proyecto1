@@ -1,0 +1,40 @@
+body {
+	width: 100%;
+	font-family: sans-serif;
+	background: rgb(243, 235, 235);
+	text-align: center;
+	color: #222;
+}
+.caja {
+	width: 100%;
+	display: inline-flex;
+	text-align: center;
+	margin-top: 60px;
+}
+
+.container0, .container1,.container2 {
+	background: #fff;
+	width: 25%;
+	height: 100px;
+	border: 2px dashed #000;
+	margin: auto;
+	color: #222;
+}
+
+button {
+	margin-top: 20px;
+	color: #222;
+	font-size: 20px;
+	padding: 10px 20px;
+}
+
+form {
+	width: 100%;
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+ .inp {
+	 width: 35px;
+ }
